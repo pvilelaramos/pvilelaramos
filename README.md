@@ -1,6 +1,6 @@
 ### Olá, eu sou o Pedro 👋
 
-Economista em formação pela **UFRJ** (IE/UFRJ), com interesse em **macroeconomia,
+Economista formado pela **UFRJ** (IE/UFRJ), com ênfase da pesquisa em **macroeconomia,
 política monetária e economia da energia**. Quero trabalhar como macroeconomista.
 
 - 🔬 Pesquisador do Grupo de Economia da Energia (GEE) do IE/UFRJ, no programa PRH-ANP,
