@@ -15,6 +15,7 @@ política monetária e economia da energia**.
 | Projeto | O que faz | Linguagem |
 |---|---|---|
 | [**Monitor macro Brasil**](https://github.com/pvilelaramos/monitor-macro) | Selic, inflação, expectativas, hiato do produto e regra de Taylor, com dados do BCB e atualização mensal automática | Python |
+| [**Economias globais**](https://github.com/pvilelaramos/economias-globais) | Painel comparativo de 14 economias (crescimento, inflação, juros, contas públicas), com [página interativa](https://pvilelaramos.github.io/economias-globais/) | Python |
 | [**Repasse de combustíveis para o IPCA**](https://github.com/pvilelaramos/passthrough-combustiveis-ipca) | Quanto um choque no petróleo chega à gasolina e à inflação em cada regime de preços da Petrobras (projeções locais) | R |
 
 #### Ferramentas
