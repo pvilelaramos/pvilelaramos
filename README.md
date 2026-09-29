@@ -1,4 +1,4 @@
-### Olá, eu sou o Pedro 👋
+### Olá, eu sou o Vilela!
 
 Economista formado pela **UFRJ** (IE/UFRJ), com ênfase da pesquisa em **macroeconomia,
 política monetária e economia da energia**.
